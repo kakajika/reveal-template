@@ -1,0 +1,10 @@
+theme: # beige | black | blood | league | moon | night | serif | simple | solarized | white
+  "sky"
+author: 
+  "kaji"
+title: 
+  "Title"
+revealjs_config:
+  history: false
+  slideNumber: true
+  previewLinks: true
